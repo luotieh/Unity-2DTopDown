@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e4e5444f924d684c9e4fcbc0f2bf787, type: 3}
+  m_Name: goldMine
+  m_EditorClassIdentifier: 
+  nameString: goldMine
+  prefab: {fileID: 4421604854962503962, guid: 82136eeee9cd2ed45a38de295467f6d7, type: 3}
+  resourceGeneratorData:
+    timerMax: 0.5
+    resourceType: {fileID: 11400000, guid: 9e0d933358aa2314ba049fc02d60b72e, type: 2}
